@@ -32,3 +32,5 @@ Restaurace, které nabízí výdej přes okénko nebo rozvoz:
     {% endfor %}
     </tbody>
 </table>
+
+Tento seznam je k dispozici též [ve strojově čitelné podobě](/api/restaurace.json).
