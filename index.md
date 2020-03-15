@@ -26,9 +26,9 @@ Pokud máte symptomy (zvýšenou teplotu, dušnost, kašel, bolesti svalů), mů
 ideálně v uvedeném pořadí:
 
 1. Váš obvodní praktický lékař
-2. Krajská hygienická stanice JMK: 773 768 994. (Pracovní dny 8:00-17:00, mimo tuto dobu Státní zdravotní ústav)
+2. Krajská hygienická stanice JMK: 773 768 994. (Pracovní dny 8:00–17:00, mimo tuto dobu Státní zdravotní ústav)
 3. Státní zdravotní ústav (nonstop linky): 724 810 106, 725 191 367
-4. Infolinka krajského úřadu (bezplatná linka, funkční ve všední dny i o víkendech od 7 do 19 hodin): 800 129 921
+4. Infolinka krajského úřadu (bezplatná linka, funkční ve všední dny i o víkendech 7.00–19.00): 800 129 921
 5. Infolinky zdravotních pojišťoven:
    - VZP: 952 222 222
    - VoZP: 844 888 888
