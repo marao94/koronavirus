@@ -11,16 +11,24 @@ Restaurace, které nabízí výdej přes okénko nebo rozvoz:
         <tr>
             <td>Název</td>
             <td>Telefon</td>
-            <td>Popis</td>
+            <td>Režim</td>
         </tr>
     </thead>
     <tbody>
     {% for item in site.data.restaurace %}
+    {% if item["název"] %}
     <tr>
-        <td>{{item["název"]}}</td>
+        <td>
+            {% if item["odkaz"] %}
+            <a href='{{item["odkaz"]}}'>{{item["název"]}}</a>
+            {% else %}
+            {{item["název"]}}
+            {% endif %}
+        </td>
         <td>{{item["telefon"]}}</td>
         <td>{{item["popis"]}}</td>
     </tr>
+    {% endif %}
     {% endfor %}
     </tbody>
 </table>
