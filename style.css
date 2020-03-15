@@ -5,3 +5,7 @@ body {
 thead {
   font-weight: bold;
 }
+
+tbody tr:nth-of-type(odd) {
+  background: #eee;
+}
