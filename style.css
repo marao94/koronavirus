@@ -1,5 +1,9 @@
 body {
   padding: 20px;
+  padding-top: min(50px, 5vw);
+  padding-bottom: 50px;
+  max-width: 1000px;
+  margin: auto;
 }
 
 thead {
