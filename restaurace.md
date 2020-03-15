@@ -4,7 +4,7 @@ layout: default
 
 # [Koronavirus na Boskovicku](/) / Restaurace
 
-Restaurace, které nabízí výdej přes okénko nebo rozvoz:
+Restaurace, kavárny a cukrárny, které nabízí výdej přes okénko nebo rozvoz:
 
 <table>
     <thead>
@@ -37,5 +37,9 @@ Restaurace, které nabízí výdej přes okénko nebo rozvoz:
     {% endfor %}
     </tbody>
 </table>
+
+Pokud potřebujete změnit nebo přidat data, ozvěte se někomu z následujících editorů:
+
+- Marek Osouch <osouch.marek@gmail.com>
 
 Tento seznam je k dispozici též [ve strojově čitelné podobě](/api/restaurace.json).
