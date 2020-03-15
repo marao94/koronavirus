@@ -49,4 +49,4 @@ Pokud chcete nabídnout svou pomoc, přidejte se prosím do [sdíleného chatu](
 
 ## O webu
 
-Web zprovoznily [Ohlasy](https://ohlasy.info), neustále jej aktualizujeme, pomoc uvítáme.
+Web zprovoznily [Ohlasy](https://ohlasy.info), neustále jej aktualizujeme, pomoc uvítáme ([zdrojový kód](https://github.com/Ohlasy/koronavirus)).
