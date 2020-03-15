@@ -12,6 +12,11 @@ layout: default
   (Stav k 15. 3. 11.00.)
 - Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
 
+## Restaurace
+
+Seznam {{ site.data.restaurace.size }} restaurací, kaváren a cukráren, které nabízí výdej přes okénko nebo rozvoz,
+najdete [na samostatné stránce](restaurace.html).
+
 ## Informační zdroje
 
 - [Centrální informační web Ministerstva zdravotnictví](https://koronavirus.mzcr.cz/)
