@@ -25,7 +25,7 @@ Restaurace, které nabízí výdej přes okénko nebo rozvoz:
             {{item["název"]}}
             {% endif %}
         </td>
-        <td>{{item["telefon"]}}</td>
+        <td>{{item["telefon"] | replace: " ", " "}}</td>
         <td>{{item["popis"]}}</td>
     </tr>
     {% endif %}
