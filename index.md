@@ -10,7 +10,7 @@ layout: default
   Břeclavsku. Žena z Blanenska má na okrese jen trvalý pobyt, ale žije
   právě na Brněnsku. Všechny případy mají určitou vazbu na zahraničí.
   (Stav k 15. 3. 11.00.)
-- Podrobný popis opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
+- Podrobný popis regionálních opatření najdete v [pravidelně aktualizovaném textu Ohlasů](https://ohlasy.info/clanky/2020/03/koronavirus-opatreni.html).
 
 ## Informační zdroje
 
@@ -19,6 +19,24 @@ layout: default
 - [Informace Ministerstva vnitra](https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx) (například ohledně cestování)
 - [Informace pro podnikatele](https://www.businessinfo.cz/clanky/odpovedi-na-nejcastejsi-dotazy-podnikatelu-ohledne-aktualnich-opatreni-proti-sireni-koronaviru/)
 - [Info Státního zdravotního ústavu](http://www.szu.cz/tema/prevence/rady-a-doporuceni-pro-domaci-karantenu) (například jak se chovat v domácí karanténě)
+
+## Telefonní linky
+
+Pokud máte symptomy (zvýšenou teplotu, dušnost, kašel, bolesti svalů), můžete volat na následující čísla,
+ideálně v uvedeném pořadí:
+
+1. Váš obvodní praktický lékař
+2. Krajská hygienická stanice JMK: 773 768 994. (Pracovní dny 8:00-17:00, mimo tuto dobu Státní zdravotní ústav)
+3. Státní zdravotní ústav (nonstop linky): 724 810 106, 725 191 367
+4. Infolinka krajského úřadu (bezplatná linka, funkční ve všední dny i o víkendech od 7 do 19 hodin): 800 129 921
+5. Infolinky zdravotních pojišťoven:
+   - VZP: 952 222 222
+   - VoZP: 844 888 888
+   - ČPZP: 810 800 800
+   - OZP: 261 105 555
+   - ZP ŠKODA: 800 209 000
+   - ZPMV: 844 211 211
+   - RBP: 800 213 213
 
 ## Jak pomoci ostatním
 
